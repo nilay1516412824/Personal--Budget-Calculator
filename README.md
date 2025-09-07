@@ -2,9 +2,6 @@
 
 Build a simple program that helps track monthly expenses and calculates savings.
 
-# Personal-Budget-Calculator
-Build a simple program that helps track monthly expenses and calculates savings.
-
 Live-Demo Link:https://replit.com/@nilay1516412824/Personal-Budget-Calculator-1
 
 Demo Video:https://www.loom.com/share/83e96b3297d3486a97ac1f04822fccc7?sid=00dd8f65-3c9e-4b00-93fd-24e818e0bf87
